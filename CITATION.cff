@@ -85,7 +85,14 @@ preferred-citation:
   volume: 13185
   publisher:
     name: Springer International Publishing
-
+  conference:
+    alias: ECIR
+    name: "44th European Conference on Information Retrieval"
+    city: Stavanger
+    country: NO
+    date-start: "2022-04-10"
+    date-end: "2022-04-14"
+    website: https://ecir2022.org
 
 
 
