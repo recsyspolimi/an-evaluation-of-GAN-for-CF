@@ -10,17 +10,17 @@ authors:
     family-names: Pérez Maurera
     email: fernandobenjamin.perez@polimi.it
     affiliation: Politecnico di Milano & ContentWise
-    orcid: 'https://orcid.org/0000-0001-6578-7404'
+    orcid: "https://orcid.org/0000-0001-6578-7404"
   - given-names: Maurizio
     family-names: Ferrari Dacrema
     email: maurizio.ferrari@polimi.it
     affiliation: Politecnico di Milano
-    orcid: 'https://orcid.org/0000-0001-7103-2788'
+    orcid: "https://orcid.org/0000-0001-7103-2788"
   - given-names: Paolo
     family-names: Cremonesi
     email: paolo.cremonesi@polimi.it
     affiliation: Politecnico di Milano
-    orcid: 'https://orcid.org/0000-0002-1253-8081'
+    orcid: "https://orcid.org/0000-0002-1253-8081"
 identifiers:
   - type: doi
     value: 10.1007/978-3-030-99736-6_45
@@ -49,17 +49,17 @@ preferred-citation:
       family-names: Pérez Maurera
       email: fernandobenjamin.perez@polimi.it
       affiliation: Politecnico di Milano & ContentWise
-      orcid: 'https://orcid.org/0000-0001-6578-7404'
+      orcid: "https://orcid.org/0000-0001-6578-7404"
     - given-names: Maurizio
       family-names: Ferrari Dacrema
       email: maurizio.ferrari@polimi.it
       affiliation: Politecnico di Milano
-      orcid: 'https://orcid.org/0000-0001-7103-2788'
+      orcid: "https://orcid.org/0000-0001-7103-2788"
     - given-names: Paolo
       family-names: Cremonesi
       email: paolo.cremonesi@polimi.it
       affiliation: Politecnico di Milano
-      orcid: 'https://orcid.org/0000-0002-1253-8081'
+      orcid: "https://orcid.org/0000-0002-1253-8081"
   title: >-
     An Evaluation Study of Generative Adversarial Networks for Collaborative Filtering
   abstract: >-
@@ -80,19 +80,16 @@ preferred-citation:
   pages: 15
   start: 671
   end: 685
-  repository-code: https://github.com/recsyspolimi/ecir-2022-an-evaluation-of-GAN-for-CF
+  repository-code: "https://github.com/recsyspolimi/ecir-2022-an-evaluation-of-GAN-for-CF"
   volume-title: Lecture Notes in Computer Science
   volume: 13185
   publisher:
     name: Springer International Publishing
   conference:
-    alias: ECIR
+    alias: "ECIR 2022"
     name: "44th European Conference on Information Retrieval"
     city: Stavanger
     country: NO
     date-start: "2022-04-10"
     date-end: "2022-04-14"
-    website: https://ecir2022.org
-
-
-
+    website: "https://ecir2022.org"
