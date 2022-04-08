@@ -88,6 +88,6 @@ preferred-citation:
   conference:
     name: '44th European Conference on Information Retrieval'
     alias: 'ECIR 2022'
-    website: 'https://ecir2022.org'
     date-start: '2022-04-10'
     date-end: '2022-04-14'
+
