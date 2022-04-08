@@ -22,21 +22,20 @@ authors:
     affiliation: Politecnico di Milano
     orcid: 'https://orcid.org/0000-0002-1253-8081'
 identifiers:
+  - type: doi
+    value: 10.1007/978-3-030-99736-6_45
+    description: Publisher version of the paper
   - type: other
     value: "arXiv:2201.01815"
-    description: The ArXiv preprint of the paper.
+    description: ArXiv preprint of the paper
   - type: doi
     value: 10.5281/zenodo.5819029
-    description: The concept DOI of the work.
-  - type: doi
-    value: 10.5281/zenodo.5879345
-    description: The versioned DOI for version 1.1.1 (camera-ready) of the work.
-  - type: url
-    value: https://github.com/recsyspolimi/ecir-2022-an-evaluation-of-GAN-for-CF/releases/tag/v1.1.1-ecir-2022-camera-ready
-    description: The GitHub release URL of tag 1.1.1 (camera-ready) of the work.
-repository-code: https://github.com/recsyspolimi/an-evaluation-of-GAN-for-CF
+    description: The concept DOI of the work
+repository-code: https://github.com/recsyspolimi/ecir-2022-an-evaluation-of-GAN-for-CF
 abstract: >-
-  This repository contains the source code and data used in our experiments described in the paper "An evaluation of Generative Adversarial Networks for Collaborative Filtering". Refer to the README file to run our experiments.
+  This repository contains the source code and data used in our experiments described in the paper 
+  "An evaluation of Generative Adversarial Networks for Collaborative Filtering". 
+  Refer to the README file to run our experiments.
 keywords:
   - evaluation
   - collaborative-filtering
@@ -44,6 +43,18 @@ keywords:
   - recommender-systems
 license: AGPL-3.0
 preferred-citation:
+  collection-doi: 10.1007/978-3-030-99736-6
+  collection-title: Advances in Information Retrieval
+  collection-type: proceedings
+  conference:
+    alias: ECIR
+    name: 44th European Conference on Information Retrieval
+    city: Stavanger
+    country: NO
+    date-start: 2020-04-10
+    date-end: 2020-04-14
+    website: https://ecir2022.org
+  doi: 10.1007/978-3-030-99736-6_45
   authors:
     - given-names: Fernando Benjamín
       family-names: Pérez Maurera
@@ -71,3 +82,13 @@ preferred-citation:
     - Reproducibility
   type: conference-paper
   year: 2022
+  isbn: 978-3-030-99736-6
+  date-published: 2022-04-05
+  pages: 15
+  start: 671
+  end: 685
+  publisher:
+    name: Springer International Publishing
+  repository-code: https://github.com/recsyspolimi/ecir-2022-an-evaluation-of-GAN-for-CF
+  volume-title: Lecture Notes in Computer Science
+  volume: 13185
