@@ -74,14 +74,6 @@ preferred-citation:
   collection-doi: 10.1007/978-3-030-99736-6
   collection-title: Advances in Information Retrieval
   collection-type: proceedings
-  conference:
-    alias: ECIR
-    name: 44th European Conference on Information Retrieval
-    city: Stavanger
-    country: NO
-    date-start: 2020-04-10
-    date-end: 2020-04-14
-    website: 'https://ecir2022.org'
   isbn: 978-3-030-99736-6
   date-published: 2022-04-05
   pages: 15
@@ -90,4 +82,6 @@ preferred-citation:
   repository-code: https://github.com/recsyspolimi/ecir-2022-an-evaluation-of-GAN-for-CF
   volume-title: Lecture Notes in Computer Science
   volume: 13185
+
+
 
