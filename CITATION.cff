@@ -87,4 +87,7 @@ preferred-citation:
     name: Springer International Publishing
   conference:
     name: '44th European Conference on Information Retrieval'
+    alias: 'ECIR 2022'
+    city: Stavanger
+    country: NO
 
